@@ -1,13 +1,13 @@
 # Node Modules Practice
 
-- [ ] Fork and clone this repo
-- [ ] Initialize node in your cloned repo so it becomes a node project!
+- [ x ] Fork and clone this repo
+- [ x ] Initialize node in your cloned repo so it becomes a node project!
 
 ## Make your own module
 
-- [ ] Create a node module that stores an array of your favorite foods
-- [ ] Import that module into your `index.js`
-- [ ] Write code in your `index.js` so when you run your app, it loops through the array, printing all of your favorite foods to the console
+- [ x ] Create a node module that stores an array of your favorite foods
+- [ x ] Import that module into your `index.js`
+- [ x ] Write code in your `index.js` so when you run your app, it loops through the array, printing all of your favorite foods to the console
 
 ## Experiment with implementing a package
 
