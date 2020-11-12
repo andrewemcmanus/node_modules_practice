@@ -1,0 +1,19 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "deliverable 11.13.20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewemcmanus/node_modules_practice.git"
+  },
+  "author": "Andrew McManus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewemcmanus/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/andrewemcmanus/node_modules_practice#readme"
+}
