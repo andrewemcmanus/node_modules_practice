@@ -2,6 +2,7 @@ const {favoriteFoods, printNewArray} = require("./mymodule");
 const merge = require('deepmerge');
 const objectAssign = require('object-assign');
 const musicMetadata = require('music-metadata-browser');
+const geometric = require('geometric');
 // var react = require('react');
 
 printNewArray(favoriteFoods);
@@ -57,15 +58,15 @@ merge(
 
 //////////// MUSIC METADATA /////////////
 
-(async () => {
-    let blob;
-    const metadata = await musicMetadata.parseBlob(blob);
-    // metadata has all the metadata found in the blob or file
-  });
+// (async () => {
+//     let blob;
+//     const metadata = await musicMetadata.parseBlob(blob);
+//     // metadata has all the metadata found in the blob or file
+//   });
 
-  (async () => {
-    const metadata = await musicMetadata.fetchFromUrl(audioTrackUrl, options);
-  });
+//   (async () => {
+//     const metadata = await musicMetadata.fetchFromUrl(audioTrackUrl, options);
+//   });
     // sorts metadata:
     // orderTags(nativeTags: ITag[]): [tagId: string]: any[]
 
@@ -97,7 +98,15 @@ merge(
 //     });
 // });
 
-
+///////////// GEOMETRIC ///////////////
+let point = 1;
+let angle = 20;
+let origin = 0;
+let distance = 1;
+geometric.pointRotate(point, angle, origin);
+geometric.pointTranslate(point, angle, distance);
+const rectangle = [[0, 0], [0, 1], [1, 1], [1, 0]];
+const bounds = geometric.polygonBounds(rectangle);
 
 
 
