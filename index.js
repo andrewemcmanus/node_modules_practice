@@ -45,7 +45,7 @@ merge(
 ) // => [{ a: true, b: true }, 'ah yup']
 
 
-/////////// REACT PLAYER ///////////
+/////////// REACT PLAYER: https://cookpete.com/react-player/ ///////////
 
 // const createReactPlayer = require('react-player').createReactPlayer
 // const Player = require('/react-player/soundcloud.js').default
