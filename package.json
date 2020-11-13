@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/andrewemcmanus/node_modules_practice#readme",
   "dependencies": {
-    "react-player": "^2.6.2"
+    "music-metadata-browser": "^2.1.6",
+    "react-player": "^2.6.2",
+    "recordrtc": "^5.6.1",
+    "tone": "^14.7.58"
   }
 }

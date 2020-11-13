@@ -12,15 +12,15 @@
 ## Experiment with implementing a package
 
 - [x] Find 3 [npm](https://www.npmjs.com/) packages that look interesting
-    # experimenting with react-player, tone.js, deepmerge,  
+    # experimenting with react-player, deepmerge, RecordRTC.js  
 - [x] Experiment with incorporating them into this node project, just like we did with moment
 
 ## Add to your Node app instructions readme
 
-- [ ] Add notes about how to create and import node modules to your Node/Express app readme, along with instructions about adding a `.gitignore`
+- [x] Add notes about how to create and import node modules to your Node/Express app readme, along with instructions about adding a `.gitignore`
 - [ ] Paste the link to your repo in this the readme of this assignment
 
 ## Finally, .gitignore and submit a PR!
 
-- [ ] Add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to Github
+- [x] Add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to Github
 - [ ] Submit this assignment by making a `pull request`
