@@ -12,7 +12,7 @@
 ## Experiment with implementing a package
 
 - [x] Find 3 [npm](https://www.npmjs.com/) packages that look interesting
-    # experimenting with react-player, deepmerge, RecordRTC.js  
+    ### experimenting with react-player, deepmerge, RecordRTC.js  
 - [x] Experiment with incorporating them into this node project, just like we did with moment
 
 ## Add to your Node app instructions readme
