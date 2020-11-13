@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrewemcmanus/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/andrewemcmanus/node_modules_practice#readme"
+  "homepage": "https://github.com/andrewemcmanus/node_modules_practice#readme",
+  "dependencies": {
+    "react-player": "^2.6.2"
+  }
 }
